@@ -1,4 +1,4 @@
-#dns tunneling
+sumpel.my.id
 sabdo.my.id
 tepllovpn.eu.org
 darnixmx.com
