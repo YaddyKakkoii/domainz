@@ -15,3 +15,4 @@ premiumserver2.cloud
 myvpnstores.biz.id
 vpnbumiayu.my.id
 newsctunnel.me
+xservers.tech
