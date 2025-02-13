@@ -7,7 +7,7 @@ hanyt77.my.id
 konfig.monster
 vip-order.cloud
 infoserver76.my.id
-deco.toko-vpn.my.id
+xservers.tech
 wozz.web.id
 panelku-vip.my.id
 ryustore.online
@@ -17,7 +17,7 @@ myvpnstores.biz.id
 vpnbumiayu.my.id
 newsctunnel.me
 vpnvip.my.id
-anuy.web.id
+bza.web.id
 vpnshare.web.id
 almumin.store
 mytendo.store
