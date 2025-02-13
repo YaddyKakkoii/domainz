@@ -17,6 +17,7 @@ myvpnstores.biz.id
 vpnbumiayu.my.id
 newsctunnel.me
 vpnvip.my.id
+anuy.web.id
 vpnshare.web.id
 almumin.store
 mytendo.store
